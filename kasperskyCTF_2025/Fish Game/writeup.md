@@ -2,8 +2,14 @@
 
 ## Challenge Overview
 
-**Category:** Web/Game Hacking  
+**Category:** Reversing  
 **Flag:** `kaspersky{g1v3_m4n_4_f1sh1ng_r0d_h3_w0u1d_b3_f4d}`
+
+## Challenge Description
+
+I want to play a game together. I also like fish.
+
+---
 
 This challenge is a Godot-based fish game where players control a fish and tries to get a high score.
 

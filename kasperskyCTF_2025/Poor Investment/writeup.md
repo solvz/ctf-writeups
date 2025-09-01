@@ -1,10 +1,15 @@
 # Poor Investment Writeups
 
+## Challenge Overview
+
+**Category:** Forensics  
+**Flag:** `kaspersky{b4d_3x73n510n5_5734l_b1tc01n5}`
+
 ## Challenge Description
 
 John decided to become a crypto developer and earn lots of money. After reading about the latest crypto heists, he decided to set up a secure development cloud environment. However, it didn't take a few hours after installing the operating system until all his cryptocurrency savings were drained. Now, what was going on?
 
-**Flag:** `kaspersky{b4d_3x73n510n5_5734l_b1tc01n5}`
+---
 
 ## Initial Analysis and First Impressions
 I was provided with an Ubuntu VM ovm and disk image. I have not added it to the repo as its over 5 GB.
